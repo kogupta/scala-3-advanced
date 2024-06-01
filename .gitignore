@@ -155,3 +155,4 @@ project/plugins/project/
 ./.idea/codeStyles/*
 ./.idea/modules
 ./.idea/modules/*
+./.idea/modules/*.iml
